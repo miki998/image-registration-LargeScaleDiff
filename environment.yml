@@ -1,0 +1,10 @@
+name: registration_course
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - notebook
+  - scipy
+  - pytorch
+  - jupyter_contrib_nbextensions
