@@ -54,8 +54,11 @@ Original images, superposed
 ![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img3.png)
 
 
+
 Registered images, superposed
 ![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img1.png)
+
+
 
 
 Deformation map
