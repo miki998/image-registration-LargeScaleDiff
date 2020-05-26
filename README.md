@@ -43,7 +43,7 @@ python3 main.py
 Our tests are working on anchors example. Here are some examples of results and their explanation.
 
 #### 
-- Random initialization of control points
+- Active landmark annotating
 - momentum of 0
 - two steps gradient descent momentum and control points
 - loss: MSE
