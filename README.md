@@ -40,28 +40,26 @@ python3 main.py
 
 ### Break down into end to end tests
 
-Our tests are working on three different sets of images. Here are some examples of results and their explanation.
+Our tests are working on anchors example. Here are some examples of results and their explanation.
 
-#### Population representatating template
+#### 
 - Random initialization of control points
 - momentum of 0
 - two steps gradient descent momentum and control points
 - loss: MSE
 - regularization: euclidian norm on momentum (integrated on path)
+- (optional: affine transform beforehand)
+
+Original images, superposed
+![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img3.png)
 
 
-Starting from mean image initialization
-![](https://github.com/miki998/Unsupervised-Image-normalization-Atlas/blob/master/example1.png)
+Registered images, superposed
+![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img1.png)
 
 
-After 80 iterations
-![](https://github.com/miki998/Unsupervised-Image-normalization-Atlas/blob/master/example2.png)
-
-### Normalization of input to template
-- 
-- 
-- 
-!["NOT YET"]
+Deformation map
+![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img2.png)
 
 ## Deployment
 
