@@ -1,4 +1,4 @@
-name: registration_course
+name: lddmm
 channels:
   - conda-forge
 dependencies:
