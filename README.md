@@ -51,17 +51,20 @@ Our tests are working on anchors example. Here are some examples of results and 
 - (optional: affine transform beforehand)
 
 Original images, superposed
+
 ![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img3.png)
 
 
 
 Registered images, superposed
+
 ![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img1.png)
 
 
 
 
 Deformation map
+
 ![](https://github.com/miki998/image-registration-LargeScaleDiff/blob/master/readme_image/img2.png)
 
 ## Deployment
